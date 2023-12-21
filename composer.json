@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Mpdf\\": "C:/xampp/htdocs/lll/vendor/mpdf/mpdf",
+            "PHPMailer\\": "C:/xampp/htdocs/lll/vendor/phpmailer/phpmailer"
+        }
+    },
+    "require": {
+        "mpdf/mpdf": "^8.2",
+        "phpmailer/phpmailer": "^6.8",
+        "twilio/sdk": "^7.12"
+    }
+}
